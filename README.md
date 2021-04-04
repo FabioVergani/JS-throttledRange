@@ -1,5 +1,5 @@
 # JS-throttledRange
-A functional controller for throttle inpunt range values.
+A functional controller for throttle input range values.
 ```
 const throttledRange = throttleRange(
 	htmlInputRangeElement,
